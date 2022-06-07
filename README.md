@@ -1,4 +1,4 @@
-.
+
 ├── folder1                   # Compiled files (alternatively `dist`)/
     ├── sub folder 1.1/
         ├── new file 1.1.1.txt/
