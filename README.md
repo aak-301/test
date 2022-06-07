@@ -9,3 +9,27 @@
 ├── folder 3                     # Source files (alternatively `lib` or `app`)
     ├── newfile3.txt
 └── README.md
+
+
+stores/
+├─ .dart_tool/
+├─ android/
+├─ .github/
+├─ lib/
+│  ├─ api/
+│  ├─ favicon.ico
+│  ├─ index.html
+│  ├─ robots.txt
+├─ main.dart
+├─ src/
+│  ├─ index.css
+│  ├─ index.js
+├─ .gitignore
+├─ package.json
+├─ README.md
+blocs/
+constants/
+models/
+pages/
+repos/
+utility/
